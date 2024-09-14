@@ -1,0 +1,13 @@
+main.c:86:5:main	8	static
+main.c:136:6:SystemClock_Config	88	static
+main.c:184:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:259:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+main.c:293:6:HAL_UARTEx_RxEventCallback	16	static
+main.c:308:6:Command_InitRobot	8	static
+main.c:322:6:Command_Error	184	static
+main.c:334:6:Command_ClearBuffer	16	static
+main.c:344:6:Command_Control_Program	64	static
+main.c:357:6:RobotArm_UART_loop	32	static
+main.c:398:6:RobotArm_Control_Program	8	static
+main.c:424:6:HAL_UART_ErrorCallback	16	static
+main.c:434:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,12 @@
+robotArm.c:10:6:stepper_init	24	static
+robotArm.c:22:6:stepper_set_angle_degree	16	static
+robotArm.c:44:6:stepper_set_angle_radian	16	static
+robotArm.c:66:6:stepper_stop	16	static
+robotArm.c:75:6:stepper_set_direction	16	static
+robotArm.c:83:6:stepper_set_speed	24	static
+robotArm.c:105:6:robotArm_init	24	static
+robotArm.c:128:6:robotArm_Geometry_calculateRadian	80	static
+robotArm.c:159:6:robotArm_moveToXYZ	40	static
+robotArm.c:195:14:robotArm_isIdle	16	static
+robotArm.c:203:6:robotArm_Gripper	16	static
+robotArm.c:223:6:gripper_stop	16	static
